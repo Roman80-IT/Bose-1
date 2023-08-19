@@ -4,6 +4,8 @@
 - [Розширення Live Server для VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Дизайн сторінки (Figma)](https://www.figma.com/file/wAWa3TPZEo8W6Rg5jZ6pL3/BOSE-Landing)
 - [Що ми робитимемо?](https://delightful-sorbet-63dbd9.netlify.app/)
+- Ти можеш опублікувати свій скріншот за допомогою одного з ресурсів: [snipboard](https://snipboard.io/) або [imgbb](https://imgbb.com/) або [Flameshot](https://flameshot.org/).
+
 
 ## Налаштування VSCode
 
