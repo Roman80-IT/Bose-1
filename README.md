@@ -10,10 +10,10 @@
 1. Встанови VSCode, запусти його та відкрий налаштування (`Code -> Settings -> Settings`).
 
 2. Ось що треба налаштувати для зручної роботи:
-   - Auto Save: afterDelay;
-   - Font Size: 15;
-   - Tab Size: 2;
-   - Render Whitespaces: boundary.
+   - Auto Save: `afterDelay`;
+   - Font Size: `15`;
+   - Tab Size: `2`;
+   - Render Whitespaces: `boundary`.
 
 ## Розширення Live Server
 
