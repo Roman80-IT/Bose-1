@@ -1,4 +1,4 @@
-# Bose - Lesson 1 - Налаштування
+# Bose - Lesson 0 - Налаштування
 
 - [Завантажити VSCode](https://code.visualstudio.com/download)
 - [Розширення Live Server для VSCode](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
